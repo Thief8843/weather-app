@@ -31,5 +31,13 @@
     "lodash": "^4.17.21"
   },
   "main": "webpack.config.js",
-  "description": ""
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thief8843/weather-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Thief8843/weather-app/issues"
+  },
+  "homepage": "https://github.com/Thief8843/weather-app#readme"
 }
